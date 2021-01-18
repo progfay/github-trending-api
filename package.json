@@ -1,7 +1,7 @@
 {
-  "name": "typescript-template",
+  "name": "github-trending-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "GitHub Trending API with TypeScript",
   "files": [
     "lib",
     "package.json"
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/progfay/typescript-template.git"
+    "url": "git+https://github.com/progfay/github-trending-api.git"
   },
   "keywords": [],
   "author": "progfay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/progfay/typescript-template/issues"
+    "url": "https://github.com/progfay/github-trending-api/issues"
   },
-  "homepage": "https://github.com/progfay/typescript-template#readme",
+  "homepage": "https://github.com/progfay/github-trending-api#readme",
   "devDependencies": {
     "@types/core-js": "2.5.4",
     "@types/jest": "26.0.20",
