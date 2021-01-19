@@ -14,7 +14,9 @@
     "start": "node ./lib/index.js",
     "test": "jest --coverage",
     "lint": "eslint -c ./.eslintrc.js .",
-    "format": "prettier --write . && eslint --fix -c ./.eslintrc.js ."
+    "format": "prettier --write . && eslint --fix -c ./.eslintrc.js .",
+    "gen:types": "./scripts/type-gen.js > src/types.ts",
+    "postgen:types": "prettier --write src/types.ts && eslint --fix -c ./.eslintrc.js src/types.ts"
   },
   "repository": {
     "type": "git",
