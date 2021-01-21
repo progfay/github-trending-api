@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`extractTrending(document) snapshot with actual html source 1`] = `
+Array [
+  Object {
+    "description": "",
+    "path": "/developedbyed/glass-website",
+  },
+  Object {
+    "description": "React Hooks — 👍",
+    "path": "/streamich/react-use",
+  },
+  Object {
+    "description": "",
+    "path": "/fireeye/Mandiant-Azure-AD-Investigator",
+  },
+  Object {
+    "description": "Book covering fundamentals on React",
+    "path": "/softchris/react-book",
+  },
+  Object {
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "path": "/Marak/faker.js",
+  },
+  Object {
+    "description": "Web APIs for Django. 🎸",
+    "path": "/encode/django-rest-framework",
+  },
+  Object {
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "path": "/cypress-io/cypress",
+  },
+  Object {
+    "description": "",
+    "path": "/fontworks-fonts/Train",
+  },
+  Object {
+    "description": "High-performance TensorFlow library for quantitative finance.",
+    "path": "/google/tf-quant-finance",
+  },
+  Object {
+    "description": "Paper list for equivariant neural network",
+    "path": "/Chen-Cai-OSU/awesome-equivariant-network",
+  },
+  Object {
+    "description": "An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.",
+    "path": "/EleutherAI/gpt-neo",
+  },
+  Object {
+    "description": "Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)",
+    "path": "/tomlooman/ActionRoguelike",
+  },
+  Object {
+    "description": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "path": "/microsoft/reverse-proxy",
+  },
+  Object {
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "path": "/Azure/azure-rest-api-specs",
+  },
+  Object {
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "path": "/twbs/bootstrap",
+  },
+  Object {
+    "description": "30 Day Vanilla JS Challenge",
+    "path": "/wesbos/JavaScript30",
+  },
+  Object {
+    "description": "📚 Russian translation of \\"You Don't Know JS\\" book series",
+    "path": "/azat-io/you-dont-know-js-ru",
+  },
+  Object {
+    "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+    "path": "/gruntwork-io/terratest",
+  },
+  Object {
+    "description": "Vanced Installer",
+    "path": "/YTVanced/VancedManager",
+  },
+  Object {
+    "description": "",
+    "path": "/shylocks/Loon",
+  },
+  Object {
+    "description": "BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.",
+    "path": "/Viralmaniar/BigBountyRecon",
+  },
+  Object {
+    "description": "",
+    "path": "/laravel/framework",
+  },
+  Object {
+    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "path": "/storybookjs/storybook",
+  },
+  Object {
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "path": "/strapi/strapi",
+  },
+  Object {
+    "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "path": "/scutan90/DeepLearning-500-questions",
+  },
+]
+`;
