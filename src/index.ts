@@ -1,5 +1,4 @@
-const hello = (name: string = 'world'): void => {
-  console.log(`Hello, ${name}!`)
-}
+export { getGitHubTrending } from './get-github-trending'
 
-hello('TypeScript')
+export type { TrendingOption } from './fetch-trending-html'
+export type { Trending } from './extract-trending'
